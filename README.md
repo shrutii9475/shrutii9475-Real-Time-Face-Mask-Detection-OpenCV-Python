@@ -26,3 +26,15 @@ python libraries used are:
 5. OPENCV-PYTHON
 6. SCIPY
 7. MATPLOTLIB
+
+   RESULT
+
+   ![image](https://github.com/shrutii9475/shrutii9475-Real-Time-Face-Mask-Detection-OpenCV-Python/assets/99082768/282ae7b5-2d26-4b31-8787-bd685f0ddc8e)
+
+Figure: Detecting no mask- The following Image is the live example of the working of this project. As the person is not wearing a mask, it detects the face in a red rectangle followed by a No Mask header.
+
+
+  ![image](https://github.com/shrutii9475/shrutii9475-Real-Time-Face-Mask-Detection-OpenCV-Python/assets/99082768/1faddae0-903d-4320-87e6-b4ea3371b442)
+
+Figure: Detecting mask- This image is showing a person wearing a mask, that’s why face is detected in green rectangle followed by Mask header.
+
